@@ -1,0 +1,15 @@
+{
+  "ambientDependencies": {},
+  "ambientDevDependencies": {
+    "bootstrap": "github:DefinitelyTyped/DefinitelyTyped/bootstrap/bootstrap.d.ts#76534619dd2e00ef7575225fec70eec5bd67a62a",
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654",
+    "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#cf2a968f0edd7d30773f7d23fe3708fa029d5ab7",
+    "meteor": "https://gist.githubusercontent.com/tomitrescak/8366ce98f1857e202ea8/raw/4c8850ad8174de2662f92c87328280838e0ab5fd/meteor.d.ts",
+    "moment": "registry:dt/moment#2.8.0+20160316155526",
+    "moment-node": "registry:dt/moment-node#2.11.1+20160317120654",
+    "mongodb": "github:DefinitelyTyped/DefinitelyTyped/mongodb/mongodb.d.ts#9027703c0bd831319dcdf7f3169f7a468537f448",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#aee0039a2d6686ec78352125010ebb38a7a7d743",
+    "tether": "github:DefinitelyTyped/DefinitelyTyped/tether/tether.d.ts#bc8c22045f4a2ba149636a98af48dfc2edd440e1",
+    "underscore": "registry:dt/underscore#1.7.0+20160220001015"
+  }
+}

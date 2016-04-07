@@ -1,0 +1,30 @@
+{
+  "name": "alfred-zahner",
+  "private": true,
+  "version": "2.4.6",
+  "description": "Test project for potential barbatus:typescript bug",
+  "dependencies": {
+    "angular2": "2.0.0-beta.12",
+    "angular2-meteor": "^0.5.2",
+    "angular2-meteor-accounts-ui": "git+https://github.com/Urigo/angular2-meteor-accounts-ui.git",
+    "angular2-meteor-auto-bootstrap": "^0.5.1",
+    "bootstrap": "^4.0.0-alpha.2",
+    "es6-shim": "^0.35.0",
+    "moment": "^2.12.0",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.2",
+    "tether": "^1.2.0",
+    "zone.js": "^0.6.8"
+  },
+  "devDependencies": {
+    "typings": "^0.7.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://twastvedt@bitbucket.org/zahner/alfred-zahner.git"
+  },
+  "author": "Trygve Wastvedt",
+  "license": "UNLICENSED",
+  "homepage": "https://bitbucket.org/zahner/alfred-zahner#readme",
+  "scripts": {}
+}
