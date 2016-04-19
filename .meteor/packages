@@ -20,6 +20,8 @@ fortawesome:fontawesome
 matb33:collection-hooks
 random
 
-angular2-compilers@0.5.4
+angular2-compilers@=0.5.4
 ecmascript
 standard-minifier-js
+barbatus:typescript@=0.2.1
+barbatus:typescript-compiler@=0.5.0

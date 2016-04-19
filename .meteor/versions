@@ -1,13 +1,14 @@
 accounts-base@1.2.5
 accounts-password@1.1.7
 allow-deny@1.0.3
-angular2-compilers@0.5.5_1
+angular2-compilers@0.5.4
 angular2-html-templates@0.5.0
 autoupdate@1.2.7
 babel-compiler@6.6.1
 babel-runtime@0.1.7
-barbatus:typescript@0.2.3
-barbatus:typescript-compiler@0.5.2
+barbatus:angular2-runtime@0.2.2
+barbatus:typescript@0.2.1
+barbatus:typescript-compiler@0.5.0
 barbatus:typescript-runtime@0.1.0
 base64@1.0.7
 binary-heap@1.0.7
